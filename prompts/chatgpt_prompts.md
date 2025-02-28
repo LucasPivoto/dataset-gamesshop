@@ -3,3 +3,4 @@
 - Faça uma tabela de qual site teve a maior quantidade de vendas.
 - Faça um gráfico de qual tipo de produto foi mais vendido.
 - Faça uma tabela de qual tipo de produto foi mais vendido em cada país.
+- Disserte sobre ideias que ajudariam a otimizar o processo de vendas com base nas tabelas e gráficos obtidos anteriormente. Sabendo da quantidade e do tipo de itens vendidos em cada país, além dos países que geraram mais lucro.
