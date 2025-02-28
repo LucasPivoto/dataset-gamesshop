@@ -1,0 +1,5 @@
+- Use os dados fornrcidos nas tabelas e organize a quantidade de vendas por países. Faça uma tabela.
+- Usando os mesmos dados faça agora a organização por lucro por país. Faça uma tabela.
+- Faça uma tabela de qual site teve a maior quantidade de vendas.
+- Faça um gráfico de qual tipo de produto foi mais vendido.
+- Faça uma tabela de qual tipo de produto foi mais vendido em cada país.
